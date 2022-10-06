@@ -17,7 +17,21 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <repositories>
+    <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
+    </repository>
+  </repositories>
+
   <dependencies>
+
+    <dependency>
+      <groupId>com.github.K-K-Ju</groupId>
+      <artifactId>str-lib</artifactId>
+      <version>83322bd319</version>
+    </dependency>
+
   </dependencies>
 
   <build>

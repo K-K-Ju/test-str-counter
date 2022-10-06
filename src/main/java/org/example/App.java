@@ -1,6 +1,5 @@
 package org.example;
 
-
 import io.str_counter.ua.CharacterCounter;
 import io.str_counter.ua.CharacterCounterImpl;
 
